@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"Backbone.js",
+		"DashDoc",
+		"DocBlockr",
+		"JsFormat",
+		"Nodejs",
+		"nodejsLauncher",
+		"Require Node.js Modules Helper",
+		"SideBarEnhancements",
+		"Theme - Soda"
+	]
+}
